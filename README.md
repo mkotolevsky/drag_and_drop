@@ -1,4 +1,4 @@
 # drag_and_drop
-A kind of kanban board
+Доска Kanban. Написана после знакомства с Crm Bitrix24.
 
-[Open project](https://mkotolevsky.github.io/drag_and_drop/)
+[Открыть](https://mkotolevsky.github.io/drag_and_drop/)
